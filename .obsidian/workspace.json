@@ -1,22 +1,25 @@
 {
   "main": {
-    "id": "ea2a06790b04e69e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "c395d33a5ad07aaa",
+        "id": "ecd3a5d6e0354814",
         "type": "tabs",
         "children": [
           {
-            "id": "40bd9281c8dfa929",
+            "id": "85554631665423ec",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "daily_notes"
+                "file": "Learning roadmap 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "daily_notes"
+              "title": "Learning roadmap 2024"
             }
           }
         ]
@@ -72,7 +75,7 @@
             }
           },
           {
-            "id": "9be072738392039c",
+            "id": "996c5e1b72984063",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -183,15 +186,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40bd9281c8dfa929",
+  "active": "85554631665423ec",
   "lastOpenFiles": [
-    "game.md",
+    "Untitled.canvas",
+    "Learning roadmap 2024.md",
+    "Home.md",
     "MyLearningSystemd.md",
     "Hee hee.md",
     "Untitled Kanban.md",
+    "game.md",
     "daily_notes/2025-01-09.md",
     "Tags",
-    "Untitled.canvas",
     "Untitled",
     "daily_notes",
     "Welcome.md",
