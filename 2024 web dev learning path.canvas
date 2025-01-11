@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"cfdf9d496d60b38a","x":160,"y":2240,"width":2180,"height":1440,"type":"group","label":"PROJECTS "},
+		{"id":"5115f4735985027b","x":-2240,"y":2240,"width":1685,"height":1040,"type":"group","label":"HỌC THÊM NẾU CÒN THỜI GIAN"},
+		{"id":"e62a6b207226a318","x":-616,"y":396,"width":250,"height":146,"type":"text","text":"## Front end \nhttps://roadmap.sh/frontend?r=frontend-beginner\n"},
+		{"id":"3197d6c0ea9c20bd","x":49,"y":391,"width":250,"height":266,"type":"text","text":"## Back end\nhttps://roadmap.sh/backend?r=backend-beginner\nhttps://www.coursera.org/professional-certificates/meta-back-end-developer"},
+		{"id":"24a654c7559d8b71","x":-880,"y":640,"width":250,"height":69,"type":"text","text":"### CSS + HTML + JAVASCRIPT"},
+		{"id":"02f4520acb912e70","x":-1313,"y":918,"width":250,"height":207,"type":"text","text":"CSS \n\t- Variables\n\t- Reponsive\n\t- Animation\n\t- Tailwind\n\thttps://www.coursera.org/specializations/css"},
+		{"id":"204836cfd50180ca","x":-1511,"y":1327,"width":250,"height":147,"type":"text","text":"REACT\n\thttps://www.coursera.org/learn/react-basics\n\t https://www.coursera.org/learn/advanced-react\n"},
+		{"id":"39a048539c159e2e","x":540,"y":840,"width":250,"height":204,"type":"text","text":"### APIs\nhttps://www.coursera.org/learn/using-apis-for-network-automation\nhttps://www.coursera.org/learn/apis"},
+		{"id":"58e96bf6f2365f4e","x":-1129,"y":1328,"width":250,"height":117,"type":"text","text":"TAILWIND\nhttps://www.coursera.org/specializations/tailwind-css"},
+		{"id":"58031efae5c4a12f","x":924,"y":831,"width":250,"height":234,"type":"text","text":"### DATABASE\nhttps://www.coursera.org/learn/introduction-to-databases\nhttps://www.coursera.org/specializations/postgresql-for-everybody"},
+		{"id":"425286009c1a89be","x":140,"y":1100,"width":250,"height":293,"type":"text","text":"### JAVASCRIPT ESSENTIALS\nhttps://www.coursera.org/specializations/javascript\nhttps://coursera.org/learn/developing-backend-apps-with-nodejs-and-express"},
+		{"id":"3359cac94b4cf457","x":-580,"y":873,"width":250,"height":179,"type":"text","text":"### Networking  5 layers\n\nhttps://www.coursera.org/learn/computer-networking"},
+		{"id":"2aa5fe81082fc000","x":-201,"y":873,"width":250,"height":209,"type":"text","text":"### The way the browser work\nhttps://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started"},
+		{"id":"48729411f661519d","x":1280,"y":840,"width":250,"height":204,"type":"text","text":"### CACHING\nhttps://www.coursera.org/projects/googlecloud-getting-started-with-redis-and-redisearch-vmk1o"},
+		{"id":"8802da39fff07bad","x":-300,"y":-80,"width":250,"height":294,"type":"text","text":"# LEARNING ROADMAP\n\nfullstack: https://roadmap.sh/full-stack\nhttps://www.youtube.com/@Codevolution/playlists"},
+		{"id":"3c77513cd540fb01","x":-400,"y":1542,"width":250,"height":147,"type":"text","text":"NEXT JS\nhttps://nextjs.org/learn\nhttps://www.youtube.com/watch?v=ZVnjOPwW4ZA\n"},
+		{"id":"495aa4558304726a","x":16,"y":1582,"width":250,"height":267,"type":"text","text":"express js\nhttps://expressjs.com/en/starter/installing.html\nhttps://www.freecodecamp.org/news/the-express-handbook/\nhttps://www.coursera.org/learn/restful-apis-with-node-and-express"},
+		{"id":"4fb93bf0ab7a73f1","x":-2164,"y":2400,"width":250,"height":60,"type":"text","text":" # FRONT"},
+		{"id":"4fba9d1bcd66e1fc","x":-1760,"y":2400,"width":250,"height":60,"type":"text","text":"# BACK"},
+		{"id":"991db02427a5af79","x":-1080,"y":2400,"width":250,"height":60,"type":"text","text":"# OOP"},
+		{"id":"64818e78f9898a83","x":-1435,"y":2400,"width":250,"height":100,"type":"text","text":"# CYBERSECURITY"},
+		{"id":"05c2c6bb74e7b0b2","x":-1435,"y":2620,"width":250,"height":237,"type":"text","text":"CONTROL, AUTHENTICATE\nhttps://www.coursera.org/learn/access-control-concepts\nhttps://www.coursera.org/learn/access-control-sscp\\\n"}
+	],
+	"edges":[
+		{"id":"09e73354dded3bdd","fromNode":"8802da39fff07bad","fromSide":"bottom","toNode":"e62a6b207226a318","toSide":"top"},
+		{"id":"0475300ff836708b","fromNode":"8802da39fff07bad","fromSide":"bottom","toNode":"3197d6c0ea9c20bd","toSide":"top"},
+		{"id":"a780dde7db101bd9","fromNode":"e62a6b207226a318","fromSide":"bottom","toNode":"24a654c7559d8b71","toSide":"top"},
+		{"id":"5f498e274ee93c4a","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"3359cac94b4cf457","toSide":"top"},
+		{"id":"9c1bd0c11ea05ad9","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"2aa5fe81082fc000","toSide":"top"},
+		{"id":"2e56da0b8ff02fb6","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"39a048539c159e2e","toSide":"top"},
+		{"id":"3acf1f275038fc17","fromNode":"24a654c7559d8b71","fromSide":"bottom","toNode":"02f4520acb912e70","toSide":"top"},
+		{"id":"40ac197e4ff08dd7","fromNode":"02f4520acb912e70","fromSide":"bottom","toNode":"204836cfd50180ca","toSide":"top"},
+		{"id":"966639471b68d390","fromNode":"02f4520acb912e70","fromSide":"bottom","toNode":"58e96bf6f2365f4e","toSide":"top"},
+		{"id":"49c7b036bc3921ad","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"58031efae5c4a12f","toSide":"top"},
+		{"id":"ca435c63ccf8e9be","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"425286009c1a89be","toSide":"top"},
+		{"id":"e71e5ab5fd89f0ce","fromNode":"425286009c1a89be","fromSide":"bottom","toNode":"3c77513cd540fb01","toSide":"top"},
+		{"id":"8ec6d6cb13ddf30d","fromNode":"3197d6c0ea9c20bd","fromSide":"bottom","toNode":"48729411f661519d","toSide":"top"},
+		{"id":"fb3aff67a574ce1b","fromNode":"425286009c1a89be","fromSide":"bottom","toNode":"495aa4558304726a","toSide":"top"}
+	]
+}

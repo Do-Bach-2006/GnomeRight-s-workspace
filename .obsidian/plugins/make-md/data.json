@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//daily_notes"
+    "//Projects - Demo Project",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

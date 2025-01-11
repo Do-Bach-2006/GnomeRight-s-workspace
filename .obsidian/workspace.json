@@ -4,25 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd3a5d6e0354814",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "85554631665423ec",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Learning roadmap 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "MyLearningSystemd.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Learning roadmap 2024"
+              "icon": "lucide-trello",
+              "title": "MyLearningSystemd"
+            }
+          },
+          {
+            "id": "21cd608fada32333",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MyLearningSystemd.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "MyLearningSystemd"
+            }
+          },
+          {
+            "id": "9c6fbe804803ab49",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2024 web dev learning path.canvas",
+                "viewState": {
+                  "x": 50,
+                  "y": 1800,
+                  "zoom": -2.132906509639838
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2024 web dev learning path"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +122,7 @@
             }
           },
           {
-            "id": "996c5e1b72984063",
+            "id": "b3f849b522051e7f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -183,15 +230,22 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "85554631665423ec",
+  "active": "21cd608fada32333",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Learning roadmap 2024.md",
     "Home.md",
     "MyLearningSystemd.md",
+    "2024 web dev learning path.canvas",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "Learning roadmap 2024.md",
     "Hee hee.md",
     "Untitled Kanban.md",
     "game.md",
