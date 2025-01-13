@@ -3,7 +3,42 @@
   "projects": [
     {
       "fieldConfig": {
-        "status": {
+        "start date": {
+          "time": false
+        },
+        "commit scope": {
+          "options": [
+            "core",
+            "UI",
+            "UX",
+            "utils",
+            "API",
+            "auth",
+            "database",
+            "docs",
+            "test",
+            "config",
+            "deps",
+            "i18n",
+            "security"
+          ]
+        },
+        "commit type": {
+          "options": [
+            "feat",
+            "fix ",
+            "chore",
+            "style",
+            "refactor",
+            "perf",
+            "docs",
+            "test",
+            "build",
+            "CI",
+            "update"
+          ]
+        },
+        "progress": {
           "options": [
             "HOTFIX",
             "planning",
@@ -11,9 +46,6 @@
             "doing",
             "done"
           ]
-        },
-        "start date": {
-          "time": false
         }
       },
       "defaultName": "",
@@ -39,8 +71,10 @@
             "orderFields": [
               "name",
               "path",
-              "status",
-              "start date"
+              "progress",
+              "start date",
+              "commit type",
+              "commit scope"
             ]
           },
           "filter": {
@@ -59,22 +93,7 @@
         },
         {
           "config": {
-            "groupByField": "status",
-            "columns": {
-              "planning": {
-                "records": [
-                  "projects/MyLearningSystemd/Autoplay song.md",
-                  "projects/MyLearningSystemd/Progress displaying.md",
-                  "projects/MyLearningSystemd/Congrats on complete .md"
-                ]
-              },
-              "HOTFIX": {
-                "records": []
-              },
-              "No status": {
-                "records": []
-              }
-            }
+            "groupByField": "progress"
           },
           "filter": {
             "conjunction": "and",
