@@ -11,65 +11,18 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "MyLearningSystemd.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "MyLearningSystemd"
-            }
-          },
-          {
-            "id": "21cd608fada32333",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MyLearningSystemd.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "MyLearningSystemd"
-            }
-          },
-          {
-            "id": "9c6fbe804803ab49",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2024 web dev learning path.canvas",
-                "viewState": {
-                  "x": 50,
-                  "y": 1800,
-                  "zoom": -2.132906509639838
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2024 web dev learning path"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +75,7 @@
             }
           },
           {
-            "id": "b3f849b522051e7f",
+            "id": "02f94d80d7a5b7bc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -234,26 +187,42 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "21cd608fada32333",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
-    "MyLearningSystemd.md",
+    "projects/MyLearningSystemd/resources/daily_notes.md",
+    "projects/MyLearningSystemd/ABOUT THIS PROJECT.md",
+    "projects/MyLearningSystemd/todos/daily_notes.md",
+    "projects/MyLearningSystemd/todos/Autoplay song.md",
+    "projects/daily_notes.md",
+    "projects/MyLearningSystemd/daily_notes.md",
+    "projects/MyLearningSystemd/resources",
+    "projects/MyLearningSystemd/todos",
     "2024 web dev learning path.canvas",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
+    "projects/MyLearningSystemd/todos/Progress displaying.md",
+    "projects/MyLearningSystemd/todos/Congrats on complete .md",
+    "projects/MyLearningSystemd/Resources.md",
+    "projects/MyLearningSystemd/TODO's board.md",
+    "projects/MyLearningSystemd/Description.md",
+    "daily_notes/2025-01-09.md",
+    "Home.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "projects/MyLearningSystemd",
+    "projects/Untitled.md",
+    "Vault.md",
+    "projects",
+    "Projects /5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects /What I Learned From Taking 15,000 Notes.md",
+    "Projects /Why You Should Be Taking More Notes.md",
+    "Projects /The Easiest Way to Start Taking Notes.md",
+    "Projects /The Best Notes You'll Ever Make.md",
+    "Projects ",
     "Learning roadmap 2024.md",
     "Hee hee.md",
-    "Untitled Kanban.md",
     "game.md",
-    "daily_notes/2025-01-09.md",
     "Tags",
     "Untitled",
     "daily_notes",
-    "Welcome.md",
-    "2025-01-09.md"
+    "Welcome.md"
   ]
 }

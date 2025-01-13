@@ -2,16 +2,29 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "HOTFIX",
+            "planning",
+            "todo",
+            "doing",
+            "done"
+          ]
+        },
+        "start date": {
+          "time": false
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Projects - Demo Project",
-          "recursive": false
+          "path": "projects/MyLearningSystemd/todos",
+          "recursive": true
         }
       },
       "newNotesFolder": "",
@@ -19,11 +32,47 @@
         {
           "config": {
             "fieldConfig": {
-              "name": {
-                "width": 360
-              },
-              "path": {
+              "kanban-plugin": {
                 "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "status",
+              "start date"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d7e4c9f4-270d-4773-b055-5ccd12ccb002",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "planning": {
+                "records": [
+                  "projects/MyLearningSystemd/Autoplay song.md",
+                  "projects/MyLearningSystemd/Progress displaying.md",
+                  "projects/MyLearningSystemd/Congrats on complete .md"
+                ]
+              },
+              "HOTFIX": {
+                "records": []
+              },
+              "No status": {
+                "records": []
               }
             }
           },
@@ -37,35 +86,12 @@
           "sort": {
             "criteria": []
           },
-          "name": "Table",
-          "id": "486af6ce-3b64-48d5-abf2-f0ee85452799",
-          "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status",
-            "orderSyncField": "weight"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Board",
-          "id": "e1559576-0968-4235-962a-aa10d6b26d6e",
+          "id": "3e057d8b-448f-4759-affe-140e29aa4963",
+          "name": "kaban",
           "type": "board"
         },
         {
-          "config": {
-            "interval": "month",
-            "dateField": "due",
-            "checkField": "published"
-          },
+          "config": {},
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -76,32 +102,13 @@
           "sort": {
             "criteria": []
           },
+          "id": "955527d3-d975-42af-b9d5-adeaa9015a7f",
           "name": "Calendar",
-          "id": "1b313605-2ad5-4402-91a8-f1be2736de15",
           "type": "calendar"
-        },
-        {
-          "config": {
-            "coverField": "image"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Gallery",
-          "id": "6205214a-7071-4bb5-b048-23f96cece7ef",
-          "type": "gallery"
         }
       ],
-      "name": "Demo project",
-      "id": "27963f3c-2685-49b3-afdc-d90b83a9eb84",
-      "path": "Projects - Demo Project"
+      "id": "f9547ac7-e05c-46ff-b560-ef74a5d9ab81",
+      "name": "MyLearningSystemd"
     }
   ],
   "archives": [],

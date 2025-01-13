@@ -35,9 +35,13 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Projects - Demo Project",
-    "//Tags"
+    "//Projects ",
+    "/",
+    "//projects",
+    "//projects/projects/MyLearningSystemd",
+    "//projects/projects/MyLearningSystemd/projects/MyLearningSystemd/resources",
+    "//projects/projects/MyLearningSystemd/projects/MyLearningSystemd/todos"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
