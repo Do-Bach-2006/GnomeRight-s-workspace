@@ -5,7 +5,7 @@
   "renderDateIcon": true,
   "renderProjectIcon": true,
   "renderLabelsIcon": true,
-  "shouldWrapLinksInParens": false,
+  "shouldWrapLinksInParens": true,
   "addTaskButtonAddsPageLink": "content",
   "debugLogging": false
 }
