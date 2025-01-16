@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "global resources/plans"
+                "file": "TODO for working space.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "plans"
+              "title": "TODO for working space"
             }
           },
           {
@@ -249,13 +252,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "developing pillars/social.md",
+    "developing pillars/skills.md",
+    "developing pillars/knowledge.md",
+    "developing pillars/health.md",
+    "developing pillars/spiritual.md",
+    "EVOLVING TREE.md",
+    "global resources/plans/7 hours sleeping a night.md",
+    "Routines.md",
     "global resources/plans/Feel more excited.md",
     "global resources/plans/Talk with more stranger, especially girls.md",
-    "EVOLVING TREE.md",
     "Home.md",
     "SHOPPING LISTS.md",
     "TODO for working space.md",
-    "Routines.md",
     "global resources/plans/Practice stoicism.md",
     "global resources/plans/Improve my looks.md",
     "global resources/plans/Plans and project management.md",
@@ -269,12 +278,6 @@
     "global resources/plans/Skincare.md",
     "global resources/plans/Improve self-care.md",
     "global resources/plans/Learn more full stack knowledge.md",
-    "global resources/plans/Read 10 books in a year.md",
-    "global resources/plans/Eat healthier.md",
-    "global resources/plans/Ride a bike.md",
-    "global resources/plans/ABS muscle.md",
-    "global resources/plans/Improve leg power.md",
-    "global resources/plans/Bench press 25kg.md",
     "check",
     "global resources/templates/projects",
     "global resources/Untitled",
