@@ -1,0 +1,35 @@
+{
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "s"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

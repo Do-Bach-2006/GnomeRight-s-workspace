@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebd712219e3af71",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbe6165143ac62e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "EVOLVING TREE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "global resources/plans"
               },
               "icon": "lucide-file",
-              "title": "EVOLVING TREE"
+              "title": "plans"
+            }
+          },
+          {
+            "id": "c50513d50f5728de",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ]
@@ -73,8 +80,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "71c4906b2314b026",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -127,7 +145,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EVOLVING TREE.md"
+                "file": "global resources/templates/Plans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of EVOLVING TREE"
+              "title": "Outline of Plans"
             }
           },
           {
@@ -154,17 +172,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c3706bb9d7029ff1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e865f1d71ace9d79",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "fa19eddd5ac843e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ff464e52cada9d91",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "tag",
+              "title": "Tags overview"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "quickadd:QuickAdd": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,51 +239,57 @@
       "homepage:Open homepage": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "sheet-plus:Create excel file": false,
+      "tags-overview:Tags overview": false
     }
   },
-  "active": "bcbe6165143ac62e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2024 web dev learning path.canvas",
-    "pixel-banner-images/447736608_122154404132159497_3112890795981569744_n.jpg",
-    "pixel-banner-images/favpng_deer-skull-drawing-illustration.png",
-    "Excalidraw/Drawing 2025-01-15 17.28.47.excalidraw.md",
+    "global resources/plans/Feel more excited.md",
+    "global resources/plans/Talk with more stranger, especially girls.md",
     "EVOLVING TREE.md",
-    "goals",
-    "resources/goals",
     "Home.md",
-    "resources/progress/Untitled Kanban.md",
-    "resources/progress/Untitled database.md",
-    "resources/progress",
-    "resources/visualize",
-    "resources/compoments",
-    "resources/courses",
-    "resources/plans",
-    "resources/books",
-    "resources",
-    "Vault.md",
-    "projects/MyLearningSystemd/todos/Progress displaying.md",
-    "projects/MyLearningSystemd/ABOUT THIS PROJECT.md",
-    "pixel-banner-images",
+    "SHOPPING LISTS.md",
+    "TODO for working space.md",
+    "Routines.md",
+    "global resources/plans/Practice stoicism.md",
+    "global resources/plans/Improve my looks.md",
+    "global resources/plans/Plans and project management.md",
+    "global resources/plans/Money management.md",
+    "global resources/plans/Time management.md",
+    "global resources/plans/Learn how to cook.md",
+    "global resources/plans/Practice to DIY everything.md",
+    "global resources/plans/Learn to invest my money.md",
+    "global resources/plans/Know how to cook.md",
+    "global resources/plans/Save 3 millions vnd.md",
+    "global resources/plans/Skincare.md",
+    "global resources/plans/Improve self-care.md",
+    "global resources/plans/Learn more full stack knowledge.md",
+    "global resources/plans/Read 10 books in a year.md",
+    "global resources/plans/Eat healthier.md",
+    "global resources/plans/Ride a bike.md",
+    "global resources/plans/ABS muscle.md",
+    "global resources/plans/Improve leg power.md",
+    "global resources/plans/Bench press 25kg.md",
+    "check",
+    "global resources/templates/projects",
+    "global resources/Untitled",
+    "global resources/compoments/style sheets",
+    "game",
+    "Tags",
+    "global resources/templates",
+    "developing pillars/socials",
+    "global resources/visualize/canvas/2025 full stack web dev learning.canvas",
+    "global resources/compoments/links",
+    "global resources/notes/journal",
+    "global resources/assests/images/447736608_122154404132159497_3112890795981569744_n.jpg",
+    "pixel-banner-images/favpng_deer-skull-drawing-illustration.png",
     "Pasted image 20250115180830.png",
-    "projects/MyLearningSystemd/todos/Autoplay song.md",
-    "projects/MyLearningSystemd/todos/Congrats on complete .md",
     "Pasted image 20250115182821.png",
-    "Pasted image 20250115180312.png",
-    "Untitled Kanban.md",
-    "evolving resource/Heart of a Poet/daily_notes.md",
-    "evolving resource/daily_notes.md",
-    "type barlabels [0 3 6 8 12 15 18 21]series  - title Emotions    data [0 2.5 5 7.5 10]tension 0.2width 80%labelColors falsefill falsebeginAtZero falsebestFit falsebestFitTitle undefinedbestFitNumber 0.md",
-    "evolving tree.md",
-    "evolving resource/Mind of a Stoic/daily_notes.md",
-    "evolving resource/Body of an Athlete/daily_notes.md",
-    "evolving resource/Spirit of a Warrior/daily_notes.md",
-    "SKILL TREE.md",
-    "2025 plans/daily_notes.md",
-    "2025 plans/health/daily_notes.md",
-    "projects/daily_notes.md",
-    "projects/MyLearningSystemd/daily_notes.md",
-    "projects/MyLearningSystemd/resources/daily_notes.md",
-    "2025 plans/soft skills/daily_notes.md"
+    "Pasted image 20250115180312.png"
   ]
 }

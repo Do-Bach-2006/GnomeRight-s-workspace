@@ -1,0 +1,4 @@
+- [x] create template for goals ✅ 2025-01-16
+- [x] create template for daily journal ✅ 2025-01-16
+- [x] create template for learning notes ✅ 2025-01-16
+- [x] create template for project ✅ 2025-01-16

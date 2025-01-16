@@ -55,7 +55,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "projects/MyLearningSystemd/todos",
+          "path": "global resources/projects/MyLearningSystemd/todos",
           "recursive": true
         }
       },

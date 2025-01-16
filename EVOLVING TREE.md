@@ -1,7 +1,5 @@
 ---
-banner: "[[447736608_122154404132159497_3112890795981569744_n.jpg]]"
-banner_icon: 🚥
-banner_lock: false
+banner: global resources/assests/images/447736608_122154404132159497_3112890795981569744_n.jpg
 ---
 # description 
 
@@ -10,6 +8,7 @@ banner_lock: false
 - [ ] Link resource with each other to create a graph
 
 This is the root of my skill tree, it will visualize my  goal and learning progress. The tree will continue to growth and expand as life continue .
+
 
 ## health
 	- Tối ngủ được 7 tiếng
@@ -41,3 +40,4 @@ This is the root of my skill tree, it will visualize my  goal and learning progr
 	- Giao tiếp với nhiều người hơn, mở rộng vòng tròn quan hệ ( ko phải bạn bè !)
 	- Thử nói chuyện với các anh chị khóa trên, nhà tuyển dụng
 	- Chuyển sang sử dụng MXH linkedin hoặc dev thay vì xài facebok
+	- 

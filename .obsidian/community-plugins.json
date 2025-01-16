@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-kanban",
-  "obsidian-linter",
   "obsidian-markmind",
   "obsidian-minimal-settings",
   "todoist-sync-plugin",
@@ -16,7 +15,6 @@
   "slash-commander",
   "obsidian-admonition",
   "templater-obsidian",
-  "custom-sort",
   "dataview",
   "obsidian-folder-focus-mode",
   "dbfolder",
@@ -24,6 +22,15 @@
   "obsidian-tasks-plugin",
   "obsidian-zotero-desktop-connector",
   "obsidian-image-toolkit",
-  "pexels-banner",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "make-md",
+  "media-extended",
+  "calendar",
+  "obsidian-day-planner",
+  "quickadd",
+  "obsidian-icons-plugin",
+  "sheet-plus",
+  "advanced-canvas",
+  "table-editor-obsidian",
+  "tags-overview"
 ]
